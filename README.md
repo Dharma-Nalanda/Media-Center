@@ -1,6 +1,6 @@
 ### pull-requests-
 Tolong menolong serta ber collaborate on code with other people
-* Ini adalah pusat media pusara kegiatan dalam pengelolaam Info+Data+Nada guna di kelola dengan baik sehingga layak jadi konsumsi publik
+* Ini adalah pusat media pusara kegiatan dalam pengelolaan Info+Data+Nada guna di kelola dengan baik sehingga layak jadi konsumsi publik
 # Data Center 
 Menurut [Wiki pedia Data Center Seperti di bawah ini](https://en.wikipedia.org/wiki/Data_center) :
 
